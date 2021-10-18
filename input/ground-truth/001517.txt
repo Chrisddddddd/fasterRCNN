@@ -1,0 +1,2 @@
+dog 19 109 416 291
+chair 4 3 499 375 difficult

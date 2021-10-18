@@ -1,0 +1,11 @@
+diningtable 1 284 261 445
+chair 156 294 234 361 difficult
+chair 86 281 135 335 difficult
+chair 426 289 500 375
+chair 446 275 498 294 difficult
+chair 446 270 499 292 difficult
+chair 447 264 494 287 difficult
+pottedplant 359 241 378 285 difficult
+pottedplant 138 175 205 332
+pottedplant 110 207 143 247
+tvmonitor 50 213 68 240 difficult

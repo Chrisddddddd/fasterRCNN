@@ -1,0 +1,5 @@
+chair 2 401 375 500 difficult
+pottedplant 264 338 360 470
+pottedplant 1 203 50 312
+pottedplant 96 146 183 201
+pottedplant 240 166 274 195

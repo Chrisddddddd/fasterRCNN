@@ -1,0 +1,3 @@
+sofa 163 304 413 500 difficult
+chair 1 279 75 458
+person 67 235 333 500

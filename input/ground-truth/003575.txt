@@ -1,0 +1,5 @@
+sofa 336 144 500 313 difficult
+person 20 151 266 375
+person 195 140 320 264
+person 355 117 487 282
+sofa 22 146 344 364

@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//VOCdevkit/VOC2007/voc2frcnn.py=UTF-8
+encoding//nets/frcnn.py=gbk
+encoding//nets/vgg16.py=gbk
+encoding//utils/anchors.py=gbk
+encoding//utils/dataloader.py=gbk
+encoding//utils/utils.py=gbk
+encoding/frcnn.py=gbk
+encoding/predict.py=UTF-8
+encoding/train.py=UTF-8

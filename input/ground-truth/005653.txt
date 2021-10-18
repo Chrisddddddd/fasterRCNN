@@ -1,0 +1,4 @@
+cow 82 73 377 261
+cow 58 99 92 126 difficult
+person 207 97 284 280
+person 362 103 422 262

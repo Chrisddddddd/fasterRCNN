@@ -1,0 +1,3 @@
+bicycle 181 156 324 345
+person 207 86 327 305
+tvmonitor 398 98 500 217

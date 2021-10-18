@@ -1,0 +1,5 @@
+person 183 125 266 354
+person 238 133 356 276
+person 135 168 235 285
+sofa 22 133 423 370
+pottedplant 360 58 480 195

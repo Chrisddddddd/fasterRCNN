@@ -1,0 +1,5 @@
+tvmonitor 237 70 334 143
+person 237 88 490 326
+person 1 1 157 257
+bottle 65 236 103 332
+diningtable 2 239 500 332 difficult

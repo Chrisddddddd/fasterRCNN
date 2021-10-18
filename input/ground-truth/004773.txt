@@ -1,0 +1,4 @@
+diningtable 78 249 368 496
+chair 240 231 375 443
+chair 8 288 190 500
+tvmonitor 11 184 65 226

@@ -1,0 +1,6 @@
+person 209 67 433 341
+person 3 96 189 337
+sofa 3 156 483 368 difficult
+pottedplant 1 82 43 273 difficult
+bottle 167 224 210 375
+bottle 138 252 195 375

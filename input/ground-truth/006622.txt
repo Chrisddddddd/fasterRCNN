@@ -1,0 +1,3 @@
+sofa 242 123 456 236
+sofa 231 183 500 332 difficult
+tvmonitor 26 73 111 151

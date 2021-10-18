@@ -1,0 +1,5 @@
+diningtable 2 253 500 375 difficult
+pottedplant 378 1 500 191 difficult
+person 341 112 487 272
+person 188 106 329 266
+person 1 82 235 317

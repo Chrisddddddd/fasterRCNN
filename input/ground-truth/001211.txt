@@ -1,0 +1,3 @@
+cat 267 215 409 500
+dog 1 9 224 281
+chair 4 125 364 500 difficult

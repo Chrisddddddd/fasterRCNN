@@ -1,0 +1,16 @@
+person 431 172 457 229
+person 414 172 433 228
+person 394 175 415 227
+person 369 81 389 105 difficult
+person 247 83 264 136 difficult
+person 259 81 274 135 difficult
+person 181 84 194 135
+person 171 87 183 104 difficult
+person 136 84 154 134
+person 122 89 137 137
+person 104 86 129 134
+person 88 84 107 137
+person 34 87 48 104
+person 12 76 30 104 difficult
+person 337 90 348 102 difficult
+boat 1 1 500 372

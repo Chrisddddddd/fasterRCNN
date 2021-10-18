@@ -1,0 +1,7 @@
+sofa 74 119 374 349
+bottle 13 328 49 375
+person 87 106 221 254
+person 352 109 443 321
+person 247 104 355 375
+person 170 110 280 351
+pottedplant 17 3 163 210

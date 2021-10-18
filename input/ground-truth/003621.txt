@@ -1,0 +1,4 @@
+bicycle 199 153 328 271
+person 249 72 334 224
+bus 441 62 492 120
+bus 295 62 382 109 difficult

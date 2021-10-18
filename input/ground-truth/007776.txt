@@ -1,0 +1,5 @@
+train 167 111 263 156
+train 377 110 432 137 difficult
+train 105 147 375 259
+train 355 135 500 204
+train 344 179 500 292 difficult

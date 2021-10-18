@@ -1,0 +1,3 @@
+dog 1 235 197 330
+horse 203 3 500 333
+horse 159 156 241 305 difficult

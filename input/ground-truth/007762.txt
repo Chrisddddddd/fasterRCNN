@@ -1,0 +1,5 @@
+tvmonitor 217 90 362 252
+bottle 252 29 272 89
+bottle 292 32 311 71
+chair 58 330 267 375 difficult
+cat 147 16 174 53

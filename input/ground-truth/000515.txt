@@ -1,0 +1,4 @@
+bicycle 1 199 40 293 difficult
+person 1 85 29 279 difficult
+car 64 164 151 210
+car 147 167 186 200

@@ -1,0 +1,2 @@
+person 1 176 189 481 difficult
+bird 182 90 350 404
